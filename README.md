@@ -2,6 +2,12 @@
 
 Real-time person re-identification across multiple cameras. Each person receives a persistent global ID that follows them as they move between cameras, leave the frame, and return — surviving camera switches, temporary occlusions, and re-entries.
 
+## Demo
+
+<video src="https://github.com/user-attachments/assets/f9ef21fd-eec5-47d7-b7bc-68ea757703a3" controls width="720">
+  Your browser does not support inline video.
+</video>
+
 ---
 
 ## Table of Contents
