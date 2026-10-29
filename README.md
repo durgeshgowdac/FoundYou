@@ -1,6 +1,10 @@
-# FoundYou — Multi-Camera Person Re-Identification
+# FoundYou — Real-Time Multi-Camera Person Re-Identification
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23178297.svg)](https://doi.org/10.5281/zenodo.23178297)
 
 Real-time person re-identification across multiple cameras. Each person receives a persistent global ID that follows them as they move between cameras, leave the frame, and return — surviving camera switches, temporary occlusions, and re-entries.
+
+**Paper:** *FoundYou: Real-Time Multi-Camera Person Re-Identification with Robust Gallery Matching and Active-Track Merging* — [Zenodo preprint](https://doi.org/10.5281/zenodo.23178297)
 
 ## Demo
 
