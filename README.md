@@ -183,7 +183,7 @@ python main.py --cross-cam-dist 0.35 --device cuda --debug
 
 | Flag | Default | Description |
 |------|---------|-------------|
-| `--yolo-model` | `yolo11s.pt` | YOLO weights file |
+| `--yolo-model` | `yolo26s.pt` | YOLO weights file |
 | `--device` | auto | `cpu`, `cuda`, or `mps` |
 | `--max-cameras` | `3` | Camera indices to probe (0..N-1) |
 | `--flip-cameras 1 2` | — | Horizontally flip specified cameras |
