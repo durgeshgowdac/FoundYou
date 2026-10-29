@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "FoundYou: Real-Time Multi-Camera Person Re-Identification with Robust Gallery Matching and Active-Track Merging"
+authors:
+  - family-names: "Gowda C"
+    given-names: "Durgesh"
+    orcid: "https://orcid.org/0009-0004-5475-4104"
+  - family-names: "N"
+    given-names: "Chaitra"
+doi: 10.5281/zenodo.23178297
+date-released: 2026-10-06
+url: "https://github.com/durgeshgowdac/FoundYou"
+license: MIT
